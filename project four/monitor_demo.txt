@@ -1,0 +1,12 @@
+Started monitor_service with PID 108
+Sent SIGUSR1 to 108
+Sent SIGTERM to 108
+--- monitor_log.txt ---
+Monitor Service started. Send signals to test it.
+[Monitor Service] System running normally...
+
+System status requested by administrator.
+[Monitor Service] System running normally...
+
+Emergency shutdown signal received.
+Demo complete
