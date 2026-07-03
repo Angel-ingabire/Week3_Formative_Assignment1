@@ -1,0 +1,12 @@
+# Commands used for analysis
+
+Not every intermediate file is required. The essential workflow is:
+
+1. Build the Linux ELF binary from WSL:
+   bash linux/build_and_inspect.sh
+
+2. Inspect the resulting binary:
+   file linux/data_sync
+   readelf -h linux/data_sync
+   objdump -h linux/data_sync
+   nm -C linux/data_sync
