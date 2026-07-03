@@ -1,0 +1,6 @@
+Performance benchmark
+=====================
+Input size: 1500000 values
+Single-run Python: 0.303349 seconds
+Single-run C extension: 0.016629 seconds
+Speedup: 18.24x
