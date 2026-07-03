@@ -101,8 +101,3 @@ kill -SIGUSR1 <pid>
 kill -SIGTERM <pid>
 kill -SIGINT <pid>
 ```
-
-## Notes
-
-- The projects were implemented and tested in a Linux/WSL-friendly workflow where required.
-- The repository is intended to be used as a submission-ready portfolio of the completed formative assessment work.
